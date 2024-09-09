@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LmsDevaney:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LmsDevaney_jar</output-path>
+    <root id="archive" name="LmsDevaney.jar">
+      <element id="module-output" name="LmsDevaney" />
+    </root>
+  </artifact>
+</component>
